@@ -1,8 +1,8 @@
 # Interceptions-Wins-Final-Project
-This is my Final Project for STA145, I analyzed the relationship that interceptions have with wins and used the Philadelphia eagles as the observed team, both interceptions thrown and caught were accounted for.
+This is my Final Project for STA145, I analyzed the relationship that interceptions have with wins and used the Philadelphia eagles as the observed team, both interceptions thrown and caught were accounted for and reflected clear results.
 
 ## **Instructions**
-
+To utilize the script, open the "goldstz2_final_project_script" file that contains the code, and the "goldstz2_Sheet 1.csv"
 
 ## **Data**
 The data collected for this project were the interceptions recorded for the Philidelphia Eagles from the 2015 to 2018 season, The main goal was to figure out if there is a correlation between interceptions recorded and wins. I analyzed each game for each season on EPSN and Pro Football Reference.
