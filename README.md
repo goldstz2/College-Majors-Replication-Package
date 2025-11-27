@@ -1,2 +1,2 @@
-# College-Majors-Replication-Package
-This is my Replication Package for STA145, I analyzed the relationship that college majors have with Annual income, Employment Rate, Student Debt, and Graduate School attendence rate post-graduation, I used public surveys and income reports to collect data.
+# Interceptions-Wins-Final-Project
+This is my Final Project for STA145, I analyzed the relationship that interceptions have with wins and used the Philidelphia eagles as the observed team, both interceptions thrown and caught were accounted for and data was collected from Pro Football Referece and ESPN.
